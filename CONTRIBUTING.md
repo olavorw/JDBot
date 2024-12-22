@@ -15,7 +15,7 @@ I will start making sure pylance at some point is ran on my code.
 Anyway, Please Make Pull Requests that seem to fit, if you have an questions you can join my discord which is linked in my readme.
 
 Black is what we use to check the code, please make sure it's valid.
-If you Contributed succesfully, and it's something I agree to credit you with, you will be added to the credits command at one point.
+If you Contributed successfully, and it's something I agree to credit you with, you will be added to the credits command at one point.
 Please don't make random pull requests to just get featured.
 
 You should use Pylance to make sure your code is clean and well
